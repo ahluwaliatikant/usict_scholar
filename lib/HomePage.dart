@@ -132,8 +132,7 @@ class _HomePageState extends State<HomePage> {
                   Container(
                     margin: EdgeInsets.symmetric(vertical: 30 , horizontal: 10),
                     child: Text(
-                      'Hello this app helps you Hello this app helps you Hello this app helps you Hello this app helps you.'+
-                          'Hello this app helps you Hello this app helps you Hello this app helps you Hello this app helps you Hello this app helps you',
+                      'A simple solution for all your college needs. From study material to skill up courses, everyhting at your finger tips.',
                       style: TextStyle(
                         fontSize: 25,
                         color: Colors.white,

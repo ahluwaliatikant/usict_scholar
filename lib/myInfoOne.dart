@@ -23,7 +23,7 @@ var myImages = [
 ];
 
 var desc = [
-  "Mount St. Mary's School\n\nClass 10: CGPA 10\n\nClass 12: PCM - 92.8%",
+  "Mount St. Mary's School\n\nClass 12: PCM - 92.8%",
 
   "-> C++\n-> Flutter\n-> Node.js",
 

@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "305818593671",
-    "firebase_url": "https://myusictscholar.firebaseio.com",
-    "project_id": "myusictscholar",
-    "storage_bucket": "myusictscholar.appspot.com"
+    "project_number": "132457291507",
+    "firebase_url": "https://usict-app.firebaseio.com",
+    "project_id": "usict-app",
+    "storage_bucket": "usict-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:305818593671:android:cd5f719865e95956a08b22",
+        "mobilesdk_app_id": "1:132457291507:android:fb126918f1e81d6f4a6186",
         "android_client_info": {
           "package_name": "usict_scholar.usict_scholar"
         }
       },
       "oauth_client": [
         {
-          "client_id": "305818593671-095uk8l5ojrleeq6mramelbe3c79ohiv.apps.googleusercontent.com",
+          "client_id": "132457291507-cjbu8tkedubvas7gj9n8p7s77ln1a387.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBJXV3eN7dD4HKokUkGCSrkc3xb9OJ5hoM"
+          "current_key": "AIzaSyDI9Ro6vDdti5hiEibSanZkE2U9DItTKPE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "305818593671-095uk8l5ojrleeq6mramelbe3c79ohiv.apps.googleusercontent.com",
+              "client_id": "132457291507-cjbu8tkedubvas7gj9n8p7s77ln1a387.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

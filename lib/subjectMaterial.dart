@@ -51,8 +51,12 @@ class _SubjectMaterialState extends State<SubjectMaterial> {
   @override
   Future getPdf() async
   {
+    print("inGetPDF");
     var firestore = Firestore.instance;
+    print(firestore);
     QuerySnapshot qn= await firestore.collection(widget.currentSubject).getDocuments();
+    print(qn);
+    print(qn.documents);
     return qn.documents;
   }
 
@@ -65,8 +69,12 @@ class _SubjectMaterialState extends State<SubjectMaterial> {
 
   Future getBooks() async
   {
+    print("inGetBooks");
     var firestore = Firestore.instance;
+    print(firestore);
     QuerySnapshot qn= await firestore.collection(widget.currentSubject+' Books').getDocuments();
+    print(qn);
+    print(qn.documents);
     return qn.documents;
   }
 

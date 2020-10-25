@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:usict_scholar/studyNavBar.dart';
 import 'package:usict_scholar/drawer.dart';
 import 'package:usict_scholar/semester.dart';
@@ -46,12 +47,13 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                                     Image(image: AssetImage('Images/firstYear.jpeg'), fit: BoxFit.cover,height: 160,),
                                     SizedBox(height: 5,),
                                     Text('First Year',
-                                    style: TextStyle(
+                                    style:GoogleFonts.robotoSlab(
+                                      textStyle:TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.bold,
                                       fontSize: 20,
-                                      fontFamily: 'Roboto-Slab',
-                                    ),),
+                                    ),
+                                    ), ),
                                   ],
                                 ),
 //
@@ -84,11 +86,12 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                                     Image(image: AssetImage('Images/year2.jpeg'), fit: BoxFit.cover,height: 160,),
                                     SizedBox(height: 5,),
                                     Text('Second Year',
-                                      style: TextStyle(
+                                      style: GoogleFonts.robotoSlab(
+                                        textStyle:TextStyle(
                                         color: Colors.white,
                                         fontWeight: FontWeight.bold,
                                         fontSize: 20,
-                                        fontFamily: 'Roboto-Slab',
+                                      ),
                                       ),),
                                   ],
                                 ),
@@ -124,12 +127,14 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                               Image(image: AssetImage('Images/year2.jpeg'), fit: BoxFit.cover,height: 160,),
                               SizedBox(height: 5,),
                               Text('Third Year',
-                                style: TextStyle(
-                                  color: Colors.white,
-                                  fontWeight: FontWeight.bold,
-                                  fontSize: 20,
-                                  fontFamily: 'Roboto-Slab',
-                                ),),
+                                style:GoogleFonts.robotoSlab(
+                                    textStyle:TextStyle(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 20,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
 //
@@ -158,12 +163,14 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                               Image(image: AssetImage('Images/year4.jpeg'), fit: BoxFit.cover,height: 160,),
                               SizedBox(height: 5,),
                               Text('Fourth Year',
-                                style: TextStyle(
-                                  color: Colors.white,
-                                  fontWeight: FontWeight.bold,
-                                  fontSize: 20,
-                                  fontFamily: 'Roboto-Slab',
-                                ),),
+                                style: GoogleFonts.robotoSlab(
+                                      textStyle:TextStyle(
+                                      color: Colors.white,
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 20,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
 //
