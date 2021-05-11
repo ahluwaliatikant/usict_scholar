@@ -1,16 +1,20 @@
-# usict_scholar
+# The USICT Scholar
+An all in one app solving all the needs of students of USICT. Everything from learning material to information about societies, all in one place.
+* Notes , previous year papers and books for all subjects.
+* All information about all societies of the college.
+* Campus Gallery with Google maps link.
 
-A new Flutter application.
+## Screenshots
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Home Screen                | Study Screen               | App Drawer               
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/ahluwaliatikant/usict_scholar/blob/master/Images/Apple%20iPhone%2011%20Pro%20Max%20(2).png) |![](https://github.com/ahluwaliatikant/usict_scholar/blob/master/Images/Apple%20iPhone%2011%20Pro%20Max%20(4).png)|![](https://github.com/ahluwaliatikant/usict_scholar/blob/master/Images/Apple%20iPhone%2011%20Pro%20Max%20(3).png)|
 
-A few resources to get you started if this is your first Flutter project:
+All Societies                |  PDF Notes              | Campus Gallery    
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/ahluwaliatikant/usict_scholar/blob/master/Images/Apple%20iPhone%2011%20Pro%20Max%20(8).png) |![](https://github.com/ahluwaliatikant/usict_scholar/blob/master/Images/Apple%20iPhone%2011%20Pro%20Max%20(7).png)|![](https://github.com/ahluwaliatikant/usict_scholar/blob/master/Images/Apple%20iPhone%2011%20Pro%20Max%20(6).png)|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Google Play Store Link
+https://play.google.com/store/apps/details?id=usict_scholar.usict_scholar
